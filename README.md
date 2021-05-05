@@ -20,7 +20,7 @@ OpenSans fonts:
 https://fonts.google.com/download?family=Open%20Sans
 
 как выглядит иконка в трее:
-what the tray icon looks like: 
+<br>what the tray icon looks like: 
 <img src=https://github.com/alchemist314/PythonGTKReminder/blob/main/python_reminder_applet.png>
 
 для редактирования списка напоминаний нажмите правую клавишу мышки на иконке и выберите пункт меню Edit
