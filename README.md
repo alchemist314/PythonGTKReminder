@@ -16,7 +16,7 @@ path_to_ttf='/home/PYTHON_BIN/remider/OpenSans-Regular.ttf'
 <br>path_to_txt='/home/PYTHON_BIN/reminder/reminder.txt'
 
 шрифты OpenSans:
-OpenSans fonts:
+<br>OpenSans fonts:
 https://fonts.google.com/download?family=Open%20Sans
 
 как выглядит иконка в трее:
