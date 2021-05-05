@@ -28,3 +28,6 @@ path_to_ttf='/home/PYTHON_BIN/remider/OpenSans-Regular.ttf'
 
 в тукущей версии программы используется текстовый редакторр mcedit
 <br>the current version of the program uses the text editor mcedit 
+
+в файле reminder.txt для разделения полей даты и сообщения используется символ ";"
+<br>the file reminder.txt uses the ";" character to separate the date and message fields 
