@@ -21,10 +21,10 @@ path_to_ttf='/home/PYTHON_BIN/remider/OpenSans-Regular.ttf'
 
 как выглядит иконка в трее:
 <br>what the tray icon looks like: 
-<img src=https://github.com/alchemist314/PythonGTKReminder/blob/main/python_reminder_applet.png>
+<br><img src=https://github.com/alchemist314/PythonGTKReminder/blob/main/python_reminder_applet.png>
 
 для редактирования списка напоминаний нажмите правую клавишу мышки на иконке и выберите пункт меню Edit
 <br>to edit the list of reminders, right-click on the icon and select the Edit menu item 
 
-<br>в тукущей версии программы используется текстовый редакторр mcedit
+в тукущей версии программы используется текстовый редакторр mcedit
 <br>the current version of the program uses the text editor mcedit 
