@@ -12,7 +12,7 @@ RU:
 Before starting, replace the paths to the font files, system icon, list of reminders: 
 
 path_to_ttf='/home/PYTHON_BIN/remider/OpenSans-Regular.ttf'
-path_to_png="/home/PYTHON_BIN/reminder/reminder.png"
-path_to_txt='/home/PYTHON_BIN/reminder/reminder.txt'
+<br>path_to_png="/home/PYTHON_BIN/reminder/reminder.png"
+<br>path_to_txt='/home/PYTHON_BIN/reminder/reminder.txt'
 
 <img src=https://github.com/alchemist314/PythonGTKTimer/blob/main/pythongtk_timer_applet.png>
